@@ -20,7 +20,7 @@ A minimalist, functional To-Do App made with React. It lets you:
 As part of my journey to becoming a better front-end dev, I wanted to build something simple yet useful. This project helped me understand component structure, state management, and alert mechanisms using hooks.
 
 ## 💡 Live Preview / Demo
-[Coming soon](https://drive.google.com/file/d/1PeG9V6p4ssy-2QD_U-ornTuF_PhPdSaW/view?usp=sharing)
+[preview](https://drive.google.com/file/d/1PeG9V6p4ssy-2QD_U-ornTuF_PhPdSaW/view?usp=sharing)
 
 ---
 
